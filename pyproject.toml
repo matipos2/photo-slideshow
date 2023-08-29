@@ -1,9 +1,3 @@
-# # ładowanie do pypi: https://learnopencv.com/building-pip-installable-package-pypi/
-
-# brak dostępu do config.ini https://www.turing.com/kb/7-ways-to-include-non-python-files-into-python-package
-# coś na temat wrzucania danych jako pakiet: https://setuptools.pypa.io/en/latest/userguide/datafiles.html
-# https://stackoverflow.com/questions/69256795/how-to-include-paths-in-a-python-user-configuration-file-that-is-installed-with
-# coś więcej o setuptools i config.ini https://stackoverflow.com/questions/10456279/python-setuptools-how-to-include-a-config-file-for-distribution-into-prefix-e
 [build-system]
 requires = ["setuptools>=62", "wheel"]
 build-backend = "setuptools.build_meta"
@@ -12,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "photo-slideshow"
 version = "1.0.0"
 description = "Simple tool to make a slideshow of your photos in selected directory and all the subdirectories."
-authors = [{name = "Mateusz Poślednik", email = ""},]
+authors = [{name = "Mateusz Poślednik", email = "matipos002@yahoo.com"},]
 license = {text = "MIT"}
 readme = "README.md"
 keywords = ["photo", "slideshow", "viewer", "presentation"]
