@@ -73,3 +73,5 @@ MIT License.
 Author: Mateusz Poślednik. Experienced data engineer, but also photographer. I was missing an easy, light software to make a slideshow on my photos. Most of the applications can make the slideshow only for current directory, but my photos are organized in many subdirectories.
 
 My other projects: [https://github.com/matipos](https://github.com/matipos) and [https://github.com/matipos2](https://github.com/matipos2)
+
+Contact: [https://matpos.pythonanywhere.com/](https://matpos.pythonanywhere.com/)

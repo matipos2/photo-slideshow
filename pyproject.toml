@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "photo-slideshow"
-version = "1.0.0"
+version = "1.1.0"
 description = "Simple tool to make a slideshow of your photos in selected directory and all the subdirectories."
 authors = [{name = "Mateusz Poślednik", email = "matipos002@yahoo.com"},]
 license = {text = "MIT"}
